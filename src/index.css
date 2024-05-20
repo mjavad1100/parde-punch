@@ -52,12 +52,12 @@ html {
 body {
     line-height: 1.6;
     font-size: 1.4rem;
-    font-family: 'Digi Aladin Bold';
+    font-family: 'Digi Nofar Bold';
 }
 
 @font-face {
-    font-family:'Digi Aladin Bold';
-    src: url('./font/Digi Aladin Bold.ttf');
+    font-family:'Digi Nofar Bold';
+    src: url('./font/Digi Nofar Bold.ttf');
     /* src: url('./font/static/Montserrat-Italic.otf');
     src: url('./font/static/Luam-Montserrat-Italic.ttf');
     src: url('./font/static/Luam-Montserrat-Italic.ttf'); */
