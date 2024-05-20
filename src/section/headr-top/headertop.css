@@ -25,6 +25,8 @@
         transform: rotateX(-0.5rem);
     }
    .contact__dor{
+    padding: 4px;
+
     flex-direction: row;
     justify-content: center;
     display: flex;
@@ -34,7 +36,6 @@
     
    }
    .contact__dor p{
-    padding: 12px;
     margin: 0;
     font-weight:bold;
     font-style: italic;
