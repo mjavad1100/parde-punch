@@ -29,14 +29,16 @@
     justify-content: center;
     display: flex;
     place-items: center;
+    
    }
    .contact__dor p{
     margin: 0;
-    font-size: 18px;
-    font-weight:400;
+    font-weight:bold;
     font-style: italic;
     color: var(--color-dark);
-    font-weight:bold;
+    /* font-weight:bold; */
+    color: var(--color-primary);
+    font-size: 28px;
 
 }
 
@@ -50,8 +52,5 @@
 font-size: 37px;
 color: var(--color-primary);
 }
-.nicktime{
-    color: var(--color-primary);
-    font-size: 23px;
-}
+
   
