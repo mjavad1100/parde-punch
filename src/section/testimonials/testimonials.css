@@ -1,0 +1,14 @@
+.mytitle1 h1{
+    color: var(--color-primary);
+    font-weight: bolder;
+    text-shadow: 0 0 1px var(--color-primary);
+    justify-content: center;
+    text-align: center;
+    
+}
+.mytitle1{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin-bottom: 10px;
+}
