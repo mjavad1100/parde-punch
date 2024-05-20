@@ -19,7 +19,7 @@ const Services = () => {
     return (
         <section>
 
-            <Container>
+            <Container fluid>
                 <div className="mytitle2">
                     <Row>
                         <Col>
