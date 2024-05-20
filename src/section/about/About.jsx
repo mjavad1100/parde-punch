@@ -1,4 +1,4 @@
-import HeaderImage from '../../img/logo1.jpg'
+import HeaderImage from '../../img/logo3.jpg'
 import './about.css'
 import data from './data';
 import 'animate.css';
