@@ -58,7 +58,7 @@
     padding: 10px;
     background:#594545;
     color:var(--color-light);
-    border: 3px inset var(--color-primary);
+    border: 2px inset var(--color-primary);
     display: grid;
     place-items: center;
     border-radius: var(--border-radius-1);

@@ -39,9 +39,6 @@
     font-weight:bold;
     font-style: italic;
     color: var(--color-dark);
-    text-align: center;
-    align-items: center;
-    justify-content: center;
     /* font-weight:bold; */
     color: var(--color-primary);
     font-size: 25px;
