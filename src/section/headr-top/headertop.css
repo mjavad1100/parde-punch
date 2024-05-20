@@ -25,14 +25,13 @@
         transform: rotateX(-0.5rem);
     }
    .contact__dor{
-    padding: 4px;
-
     flex-direction: row;
     justify-content: center;
     display: flex;
     place-items: center;
     align-items: center;
     justify-items: center;
+    text-align: center;
     
    }
    .contact__dor p{
@@ -40,6 +39,9 @@
     font-weight:bold;
     font-style: italic;
     color: var(--color-dark);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
     /* font-weight:bold; */
     color: var(--color-primary);
     font-size: 25px;
