@@ -10,8 +10,9 @@ function Headertop() {
     <Container>
       <Row>
         <Col className='contact__dor'>
-       <a href='#' className='themecolor'><FaRegClock/></a>
        <a href='#' className='nicktime'>  9.00 am-10.00 pm</a>
+       <a href='#' className='themecolor'><FaRegClock/></a>
+
         </Col>
         {/* <Col>
         <div className="header__socialss">
