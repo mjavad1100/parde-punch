@@ -11,7 +11,7 @@ function Headertop() {
       <Row>
         <Col className='contact__dor'>
        <a href='#' className='themecolor'><FaRegClock/></a>
-       <a href='#' className='nicktime'>  9.00 am-10.00 pm</a>
+       <a href='#' className='nicktime'>9.00 am-10.00 pm</a>
         </Col>
         {/* <Col>
         <div className="header__socialss">
